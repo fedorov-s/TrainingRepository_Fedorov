@@ -1,2 +1,0 @@
-# TrainingRepository_Fedorov
-Description
